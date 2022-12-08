@@ -67,8 +67,9 @@ if __name__ == '__main__':
 
             time_limit = input ("Please give a limit of time (in seconds): ")
 
-            #file_name = args.r[0]
+            # file_name = args.r[0]
             #file_name = "Audios/Yesterday Once More.mp3"
+            print(file_name)
 
             try:
 
